@@ -1,5 +1,4 @@
-# CITS3003
-## Graphics and Animation
+# CITS3003 Graphics and Animation 2020 Project
 #### Author: William Au ([22257005](https://github.com/spaghettipanda))
 
 This code was created for the project for CITS3003: Graphics and Animation at the University of Western Australia. It was written for Linux only.
